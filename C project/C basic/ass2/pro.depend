@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\nv_user\onedrive\desktop\projetc\pro\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1736217159 source:c:\users\nv_user\onedrive\desktop\projetc\pro1\main.c
+	<stdio.h>
+
+1736192995 source:c:\users\nv_user\onedrive\desktop\projetc\pro\assg1.c
+	<stdio.h>
+
+1736193023 source:c:\users\nv_user\onedrive\desktop\projetc\pro\mo.c
+	<stdio.h>
+	<stdlib.h>
+
+1736193023 source:c:\users\nv_user\onedrive\desktop\projetc\ass2\mo.c
+	<stdio.h>
+	<stdlib.h>
+
+1736210002 source:c:\users\nv_user\onedrive\desktop\projetc\ass2\assg1.c
+	<stdio.h>
+
