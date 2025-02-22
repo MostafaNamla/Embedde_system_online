@@ -1,3 +1,4 @@
+#include <stdio.h>
 void reverseSentence() {
     char c;
     scanf("%c", &c);
